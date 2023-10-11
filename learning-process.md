@@ -14,3 +14,14 @@ About how she became the professor of engineering.
 7. **Practice and Apply**
 8. **Review and Reflect**
 9. **Teach Someone Else**
+# Question 5
+1. **Set Clear Goals**
+2. **Establish a Study Routine**
+3. **Use Active Learning Strategies**
+4. **Seek Feedback**
+5. **Diversify Learning Resources**
+6. **Stay Organized**
+7. **Stay Curious and Ask Questions**
+8. **Collaborate and Discuss**
+9. **Take Breaks**
+10. **Reflect on Your Learning**
