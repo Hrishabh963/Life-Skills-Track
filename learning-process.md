@@ -1,7 +1,7 @@
 # Question 1
 The **Feynman Technique** is a learning method that involves explaining a concept in simple terms as if you were teaching it to someone else, helping to identify gaps in your understanding.
 # Question 2
-None
+About how she became the professor of engineering.
 # Question 3
 **Active mode of thinking** involves focused and deliberate mental efforts, while **diffused mode of thinking** is a more relaxed and unconstrained state of mind that allows for creativity and making connections between ideas.
 # Question 4
