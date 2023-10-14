@@ -18,3 +18,11 @@
   - Prejudice and Bias.
   - Inattentiveness.
   - Interrupting.
+## 4. What can you do to improve your listening?
+  - Practice Active Listening: Engage fully in conversations, show empathy, and avoid distractions.
+
+  - Minimize Prejudice and Bias: Be aware of your biases and work on keeping an open mind.
+
+  - Enhance Your Focus: Train yourself to stay attentive and avoid multitasking during conversations.
+
+  - Seek Feedback: Ask others for feedback on your listening skills and use it to make improvements.
