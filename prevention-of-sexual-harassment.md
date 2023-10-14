@@ -19,6 +19,6 @@
   2. Document incidents.
   3. Report to supervisors or HR.
   4. Seek emotional support.
-  5. Know your rights and organization's policies.
+  5. Know my rights and organization's policies.
   6. Report to authorities if needed.
   7. Follow up on the situation.
