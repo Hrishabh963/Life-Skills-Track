@@ -12,3 +12,13 @@
   7. **Invasion of Personal Space**: Intruding into someone's personal space in a sexual manner without their permission.
   
   8.  **Sexual Discrimination**: Treating someone unfairly or differently based on their gender or making sexual advances a condition of employment or other benefits.
+## 2. What would you do in case you face or witness any incident or repeated incidents of such behaviour?
+  If I face or witness sexual harassment:
+  
+  1. Speak up politely but firmly.
+  2. Document incidents.
+  3. Report to supervisors or HR.
+  4. Seek emotional support.
+  5. Know your rights and organization's policies.
+  6. Report to authorities if needed.
+  7. Follow up on the situation.
