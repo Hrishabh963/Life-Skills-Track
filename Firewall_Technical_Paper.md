@@ -32,5 +32,3 @@ A **firewall** is a network security device or software that monitors, filters, 
 
 1. [Firewall (computing) - Wikipedia](https://en.wikipedia.org/wiki/Firewall_(computing))
 2. [What Is a Firewall?](https://www.cisco.com/c/en/us/products/security/what-is-a-firewall.html)
-
-In conclusion, firewalls are a fundamental component of network security. By understanding the different types, their functionality, and the challenges they present, organizations can better protect their systems and data from cyber threats. Properly implemented and maintained firewalls contribute to a more secure digital environment. To explore this topic further, refer to the provided references.
