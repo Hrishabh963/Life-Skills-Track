@@ -21,11 +21,11 @@
   - Maintain a healthy diet.
 
 ## 6. Paraphrase the video - Brain Changing Benefits of Exercise. Minimum 5 points, only the points.
-  1. The video discusses how exercise positively impacts the brain.
-  2. It explores the cognitive benefits of physical activity.
-  3. Exercise is shown to enhance memory and learning abilities.
-  4. It mentions the role of exercise in reducing stress and anxiety.
-  5. The video emphasizes that regular physical activity can boost overall brain health and functioning.
+  1. Excercise positively impacts the brain.
+  2. Cognitive benefits of physical activity.
+  3. Exercise enhances memory.
+  4. Excercise reduces stress.
+  5. Excercise makes you healthy.
 
 ## 7. What are some steps you can take to exercise more?
   - Start slowly.
