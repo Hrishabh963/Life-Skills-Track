@@ -51,7 +51,7 @@
   - **Default "No" Responses:** Set responses to "no" for certain situations or temptations to make the habit more difficult to indulge in.
 
 ## 8. Pick one habit that you would like to do more of? What are the steps that you can take to make it make the cue obvious or the habit more attractive or easy and or response satisfying?
-  The habit I want to pick up :
+  The habit I want to pick up is coding daily:
   - **Cue:** I'll set a daily time and place for coding sessions.
   - **Attractiveness:** I'll choose coding projects I'm passionate about and connect with coding communities.
   - **Ease:** I'll break tasks into smaller parts and create a distraction-free workspace.
