@@ -13,13 +13,12 @@
 
 
 ## 3. Why it is important to "Shine" or Celebrate after each successful completion of habit? (This is the most important concept in today's topic. Whatever you celebrate becomes a habit)
-  - **Celebrating Success:** Celebrating after successfully completing a habit is important because it reinforces positive behavior. When you celebrate, your brain associates the behavior with a sense of achievement and pleasure. This positive reinforcement can make the habit more enjoyable and fulfilling.
+  - **Celebrating Success:** Celebrating after successfully completing a habit is important because it reinforces positive behavior.
   
-  - **Becoming a Habit:** Celebrating success can help turn the behavior into a habit. Habits are formed through a loop of cue, routine, and reward. By celebrating the completion of a habit, you add a rewarding element to the loop, making it more likely that you'll repeat the behavior in the future. Over time, this repetition can lead to habit formation.
+  - **Becoming a Habit:** Celebrating success can help turn the behavior into a habit.
   
-  - **Motivation and Consistency:** Celebration boosts motivation and encourages consistency. Knowing that there's a reward or celebration waiting at the end of a successful habit completion can be a powerful motivator. It keeps you engaged and committed to the behavior, increasing the likelihood of it becoming a regular part of your routine.
-  
-  - **Positive Feedback Loop:** Celebrations create a positive feedback loop. The more you celebrate successful habit completion, the more you reinforce the habit. As the habit becomes ingrained, it requires less effort and willpower, making it easier to maintain over the long term.
+  - **Motivation and Consistency:** Celebration boosts motivation and encourages consistency. 
+  - **Positive Feedback Loop:** Celebrations create a positive feedback loop. 
   ## 4. In this video, what was the most interesting story or idea for you?
   - **Dave Brailsford's Transformation:** Picture this – the British Cycling team, historically mediocre, hires Dave Brailsford. He introduces the "aggregation of marginal gains" philosophy, focusing on small improvements (just 1% better) in various areas. Result? Remarkable success, with Tour de France wins and a slew of Olympic gold medals.
 
